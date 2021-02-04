@@ -1,0 +1,22 @@
+{
+  "name": "com.jakebarnby.bulge",
+  "version": "1.0.0",
+  "displayName": "Bulge",
+  "description": "Description",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": {
+    "name": "Jake Barnby",
+    "email": "jakeb994@gmail.com",
+    "url": ""
+  },
+  "git": {
+    "url": "https://github.com/abnegate/ruby-upm",
+    "tag": "1.0.0"
+  }
+}
